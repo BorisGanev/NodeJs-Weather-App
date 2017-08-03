@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-weather-app",
+  "version": "1.0.0",
+  "description": "Weather App utilising Google Geo-location API, Dark Sky API and NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BorisGanev/NodeJs-Weather-App.git"
+  },
+  "author": "Boris Ganev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BorisGanev/NodeJs-Weather-App/issues"
+  },
+  "homepage": "https://github.com/BorisGanev/NodeJs-Weather-App#readme",
+  "dependencies": {
+    "request": "^2.73.0"
+  }
+}
